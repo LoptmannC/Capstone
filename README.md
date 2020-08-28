@@ -1,2 +1,1 @@
-Audience; aimed at young to mid age adults, particularly in the LGBTQ+ community
-Definition Statement - I want to create a video game that is engaging and fun.
+White Mountain is a fantasy platformer game following Ballungr, a Dwarf, searching for his missing love. He must navigate multiple environments, assist other characters in their quests, and put together the tale of how to rescue his beloved.
